@@ -1,24 +1,19 @@
 # iap
 
 ## Project setup
-```
+
+```shell
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn serve
+
+```shell
+yarn electron:serve
 ```
 
 ### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
+```shell
+yarn electron:build
 ```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
